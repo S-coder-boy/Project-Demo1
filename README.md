@@ -1,4 +1,4 @@
 # Project-Demo1
 This is my first Git Repository.
 <br>
-Author-subhankar maity
+Author-subhankar(maity)
